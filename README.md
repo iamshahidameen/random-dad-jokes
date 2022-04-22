@@ -6,7 +6,7 @@
 
 # Random Dad Jokes
 
-Simple FAQ collapsable using Vanilla Js and CSS.  
+Random Dad Jokes app built using https://icanhazdadjoke.com API.
 
 
 ## Hi, I'm Shahid! 👋
